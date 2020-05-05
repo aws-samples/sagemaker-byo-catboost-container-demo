@@ -1,11 +1,7 @@
-## My Project
+## Bringing Catboost to SageMaker with a custom docker container
 
-TODO: Fill this README out!
+In this demo, we use the SageMaker Training Toolkit (https://github.com/aws/sagemaker-training-toolkit) to create a SageMaker-compatible docker image for the popular Catboost ML algorithm
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## License
 
